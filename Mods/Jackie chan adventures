@@ -1,5 +1,8 @@
 secret level after new game
 patch=1,EE,003DD1FC,word,00000000
 
+second secret level after new game
+patch=1,EE,003DD1FC,word,00000017
+
 fisherman music as title screen
 patch=1,EE,002D7CDB,word,002D7B50
